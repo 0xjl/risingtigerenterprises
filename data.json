@@ -1,0 +1,1182 @@
+﻿ [
+        {
+            "NAME": "ACAI",
+            "EXTRACT1": "10% polyphenols",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ACEROLA CHERRY",
+            "EXTRACT1": "Vit C 17%",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "AFRAMOMIUM ELEGUETA SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "AGARICUS BLAZEI",
+            "EXTRACT1": "10% polysaccharides",
+            "EXTRACT2": "30% polysaccharides"
+        },
+        {
+            "NAME": "ALFALFA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ALOE LEAF",
+            "EXTRACT1": "18% barbaloin",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ALPHA LIPOIC ACID 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "AMARANTH EXTRACT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ANGELICA ROOT (DONG QUAI)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ANDOGRAPHIS PANICULATA (SERPENTINA)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "APIGENIN 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "APPLE CIDER VINEGAR POWDER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "APPLE FRUIT",
+            "EXTRACT1": "30% polyphenol",
+            "EXTRACT2": "75% polyphenol"
+        },
+        {
+            "NAME": "APPLE PEEL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ARONIA BERRY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ARTEMISIA ANNUA (SWEET WORMWOOD)",
+            "EXTRACT1": "98% artemisine",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ARTICHOKE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ASHWAGANDA",
+            "EXTRACT1": "1.5% withanolides",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ASPARAGUS RACEMOSUS",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ASTAXANTHIN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ASTRAGALUS (HUANG QI)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "AVOCADO (PERSEA AMERICANA)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BACOPA MONIERRI",
+            "EXTRACT1": "50% bacopasides",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BAMBOO (HERBA LOPATHERI)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BANANA FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BARLEY GRASS LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BARLEY MALT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BAY LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BEARBERRY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BEE POLLEN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BEET ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BERBERINE HYDROCHLORIDE 97%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BETA ALANINE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BILBERRY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BIOTIN (VITAMN H) 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BITTER APRICOT SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BITTER MELON (AMPALAYA)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLACK CURRANT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLACK GARLIC",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLACK PEPPER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLACK RICE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLACK TEA EXTRACT",
+            "EXTRACT1": "25%pp",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BLUEBERRY",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BREWER'S YEAST",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BROCOLLI",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "BROMELAIN 2400gdu",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CABBAGE (GREEN)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CABBAGE (PURPLE)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CAFFEINE ANHYDROUS",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CAMU",
+            "EXTRACT1": "20% Vit C",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CANTELOUPE (HAMI MELON)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CARROT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CAULIFLOWER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CAYENNE (RED) PEPPER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CELERY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHAGA MUSHROOM",
+            "EXTRACT1": "30%ps",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHAMOMILE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHIA SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHICORY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHINESE DATE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHITOSAN 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHOLINE BITARTRATE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHROMIUM PICONILATE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CHLORELLA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CINNAMON BARK",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CNICUS BENEDICTUS (BLESSED THISTLE)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CNIDIUM MONNIERI",
+            "EXTRACT1": "10% osthole",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "COENZYME Q10 (10% & 99%)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CONJUGATED LINOLEIC ACID 60%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CORDYCEPS SYNENSIS",
+            "EXTRACT1": "7% d-mannite",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CRANBERRY",
+            "EXTRACT1": "10% proanthocyanidins",
+            "EXTRACT2": "20% proanthocyanidins"
+        },
+        {
+            "NAME": "CUCUMBER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "CUMINUM CYMINUM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "DHA POWDER 10%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "DHA+EPA POWDER (3.5-5%/6-8%)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ECHINACEA",
+            "EXTRACT1": "4% polyphenol",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ELDERBERRY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "EPIMEDIUM (HORNY GOAT WEED)",
+            "EXTRACT1": "10% icariins",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ERYTHRITOL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "EYEBRIGHT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FENNEL SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FENUGREEK SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FISH HYDROLYZED COLLAGEN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FLAX SEED EXTRACT",
+            "EXTRACT1": "20% sdg",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FOLIC ACID 99%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "FRUCTUS PHYLLANTI FRUIT (AMLA)",
+            "EXTRACT1": "30% tannins",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GABA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GARCINIA CAMBOGIA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GENTIAN ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GIANT KNOTWEED (RESVERATROL)",
+            "EXTRACT1": "98% resveratrol",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GINGER ROOT",
+            "EXTRACT1": "5% gingerols",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GINGKO BILOBA",
+            "EXTRACT1": "24% flavones/6%lactones",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GINSENG (KOREAN) LEAF OR ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GINSENG (PANAX) LEAF OR ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GLUCOMANNAN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GLYCYRRHIZAI ROOT (LICORICE)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GOTU KOLA (CENTELLA ASIATICA)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GRAPE FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GRAPE SEED",
+            "EXTRACT1": "85%polyphenols",
+            "EXTRACT2": "95% proanthocyanidins"
+        },
+        {
+            "NAME": "GRAPE SKIN",
+            "EXTRACT1": "45% proanthocyanidins",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GRAVIOLA (SOURSOP)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GREEN COFFEE BEAN",
+            "EXTRACT1": "25% chlorogenic acid",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GEEEN ONION",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GREEN TEA",
+            "EXTRACT1": "20% polyphenol",
+            "EXTRACT2": "80% polyphenol"
+        },
+        {
+            "NAME": "GREEN TEA",
+            "EXTRACT1": "95% egcg",
+            "EXTRACT2": "95%pp + 45% egcg + 60% catech"
+        },
+        {
+            "NAME": "GUARANA",
+            "EXTRACT1": "22% caffeine",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GUAVA FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GUAVA LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GYMNEMA SYLVESTRE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "GYNOSTEMMA",
+            "EXTRACT1": "10% gypenosides",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "HAWTHORN BERRY (CRATAEGUS)",
+            "EXTRACT1": "2% flavones",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "HERBA VERBENAE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "HESPERIDINE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "HORSETAIL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "HYALURONIC ACID (SODIUM SALT)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "INULIN (CHICORY SOURCE)",
+            "EXTRACT1": "90%",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "IRVINGIA GABONENSIS (AFRICAN MANGO)",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": "20:1"
+        },
+        {
+            "NAME": "KONJAC",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "KUDZU ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-ARGININE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-CARNITINE 99",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-CARNITNE L-TARTRATE 99%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-CYSTEINE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-METHIONINE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LACTALBUMIN HYDROLYSATE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LAVENDER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LECITHIN SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LEMON FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LEMON GRASS",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LETTUCE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-GLUTAMINE 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-GLUTATHIONE 98% redued",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LILY BULB",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "RISING TIGER ENTERPRISES",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LITCHI (LYCHEE) FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-PROLINE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "L-SERINE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LUO GAN HUO (MONK FRUiT)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LUTEOLIN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "LYOPHILIZED ROYAL JELLY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MACA ROOT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MAITAKE MUSHROOM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MANGO FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MANGOSTEEN",
+            "EXTRACT1": "10% mangostin (xanthone)",
+            "EXTRACT2": "5% total flavones"
+        },
+        {
+            "NAME": "MARIGOLD FLOWER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MCT OIL POWDER",
+            "EXTRACT1": "60% C8 & C10",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MELATONIN 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MILK THISTLE",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": "80% silymarin"
+        },
+        {
+            "NAME": "MORINGA LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "MULBERRY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "N-ACETL CYSTEINE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "NEEM LEAVES",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "OAT BRAN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "OAT STRAW",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "OLIVE LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PAPAYA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PARSLEY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PASSION FLOWER",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PASSION FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PEA PROTEIN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PEACH FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PEACH SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PEPPERMINT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PINE BARK",
+            "EXTRACT1": "95% proanthocyanidins",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PIPERINE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PINEAPPLE FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "POMEGRANATE FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "POMEGRANATE HULL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "POMELO FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PORIA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PORTULACA OLEARACEA (OLASIMAN)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PRIMLUA VERIS",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PSYLLIUM HUSK",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PUMPKIN SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PURPLE RICE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "PURSLANE HERB",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "QUERCETIN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "RASPBERRY",
+            "EXTRACT1": "2% ketone",
+            "EXTRACT2": "5% ketone"
+        },
+        {
+            "NAME": "REISHI MUSHROOM",
+            "EXTRACT1": "30% polysaccharides",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "RISING TIGER ENTERPRISES",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "RHEUM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "RHODIOLA ROSEA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ROSE HIP (ROSA CANINA)",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ROSEMARY",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "S-ADENOSYLMETHIONINE-e",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SAFFRON",
+            "EXTRACT1": "0.3% safranal",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SAGE LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SALACIA RETICULATA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SAW PALMETTO",
+            "EXTRACT1": "25% fatty acids",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SCHISANDRA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SEA BUCKTHORN",
+            "EXTRACT1": "10% Total isoflavones（UV）",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SELENIUM GLYCINATE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SELENIUM YEAST",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SEMIN COICIS",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SEMEN EURYALES",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SEMEN NELUMBINES",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SENNA LEAF",
+            "EXTRACT1": "5% sennosides",
+            "EXTRACT2": "10% sennosides"
+        },
+        {
+            "NAME": "SONGARIA CYNOMORIUM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SOPHORA JAPONICA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SORREL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SOYBEAN",
+            "EXTRACT1": "40% isoflavones",
+            "EXTRACT2": "min 90%"
+        },
+        {
+            "NAME": "SPINACH",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SPIRULINA",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SQUASH (CURCUBITA MOSCHATA)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "ST. JOHNS WORT",
+            "EXTRACT1": "0.3% hyericins",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "STEVIA LEAF",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "STRAWBERRY FRUIT",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SUNFLOWER SEED",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SWEET POTATO",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TAMARIND",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TANGERINE PEEL",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TASMANIAN BLUE GUM (EUCALYPTUS)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "THYME",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TOMATO",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TONGKAT ALI",
+            "EXTRACT1": "50:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TRIBULUS TERRESTRIS",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "TURMERIC (RHIZOMA CUCUMAE) ROOT",
+            "EXTRACT1": "95% curcumin",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VALERIAN ROOT",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VITAMIN C 99%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VITAMIN B2 98%",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VITAMIN B12 (CYANOCOBALAMIN)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VITAMIN D3 100,000IU/G",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "VITAMIN E (D ALPHA TOCOPHEROL ACID SUCCINATE)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WASABI JAPONICA (HORSERADISH)",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WATERMELON",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WHEAT GRASS LEAF",
+            "EXTRACT1": "10:1",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WHEAT GERM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WHITE KIDNEY BEAN",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WILD YAM",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "WOLFBERRY (GOJI)",
+            "EXTRACT1": "20% polysaccharides",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "YACON",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "YEAST",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "YERBA MATE",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "YOHIMBINE BARK",
+            "EXTRACT1": "",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "SPRAY DRIED FRUIT & VEGETABLE POWDERS",
+            "EXTRACT1": "Vegetables",
+            "EXTRACT2": ""
+        },
+        {
+            "NAME": "INSTANT TEA POWDER",
+            "EXTRACT1": "Matcha",
+            "EXTRACT2": "Oolong/Jasmine"
+        }
+    ]
