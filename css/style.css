@@ -19,6 +19,7 @@ html:focus-within {
 body {
   margin: 0 auto;
   background: linear-gradient(145deg, #98cc9c, #c1c1d9);
+  line-height: 1.25;
 }
 
 .max-width {
@@ -115,19 +116,17 @@ a {
   text-align: center;
 }
 
-.service-text-container {
+.service-text-container h4 {
   padding-top: 1em;
-}
-
-.service-header {
   color: #074600;
-  font-size: 1.375em;
+  font-size: 1.3em;
+  font-weight: 600;
 }
 
-.service-text {
+.service-text-container p {
   color: #004601;
-  font-size: 1.25em;
-  font-weight: 600;
+  font-size: 1.2em;
+  font-weight: 500;
 }
 
 .service-img-container {
