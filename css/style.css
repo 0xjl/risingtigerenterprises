@@ -50,11 +50,15 @@ a {
 }
 
 .rte-header {
-  font-size: 1.8em;
+  font-size: 1.4em;
 }
 
 .rte-header p {
   text-align: center;
+  font-size: 1em;
+  padding: 0 7px;
+  color: #004b01;
+  font-weight: 500;
 }
 
 .our-core {
@@ -125,6 +129,7 @@ a {
 
 .service-text-container p {
   color: #004601;
+  padding: 0 5px;
   font-size: 1.2em;
   font-weight: 500;
 }
@@ -506,6 +511,9 @@ footer .contact {
   }
   .rte-header,
   .rte-header h1 {
+    color: #bddebd;
+  }
+  .rte-header p {
     color: #bddebd;
   }
 }
